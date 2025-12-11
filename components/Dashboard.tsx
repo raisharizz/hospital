@@ -1,7 +1,7 @@
 import React from 'react';
 import { 
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, 
-  LineChart, Line, PieChart, Pie, Cell 
+  PieChart, Pie, Cell 
 } from 'recharts';
 import { AgentAuditLog, BillingFinance, PatientRegistration } from '../types';
 import { DollarSign, Activity, AlertTriangle, CheckSquare } from 'lucide-react';
